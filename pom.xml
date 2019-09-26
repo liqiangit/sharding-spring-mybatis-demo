@@ -17,7 +17,7 @@
         <log4j.version>2.7</log4j.version>
         <junit.version>4.12</junit.version>
         <driver.version>5.1.40</driver.version>
-        <sharding-sphere.version>3.0.0.M1</sharding-sphere.version>
+        <sharding-sphere.version>3.1.0</sharding-sphere.version>
     </properties>
 
     <dependencies>
